@@ -1,0 +1,7 @@
+{   "dialogTitle": "New update avaiable",
+    "dialogMessage": "Please update to the new version for the best experience.",
+    "latestBuild": "1547427264",
+    "latestVersion": "19.29.35",
+    "updateLink": "https://loreapk/id/",
+    "showUpdate" : true
+  }
